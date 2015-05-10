@@ -1,0 +1,1 @@
+This is an Academic project which involved creating a Gomoku game featuring AI.
